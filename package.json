@@ -14,5 +14,8 @@
   "type": "module",
   "workspaces": [
     "src/my_counter_app_frontend"
-  ]
+  ],
+  "dependencies": {
+    "vite": "^5.3.5"
+  }
 }
